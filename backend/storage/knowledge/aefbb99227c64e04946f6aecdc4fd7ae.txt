@@ -1,0 +1,121 @@
+SHOPEASE
+Returns & Refunds Policy
+
+Policy ID: SE-CS-001
+Version: 3.0
+Effective Date: 01 September 2026
+Policy Owner: Customer Experience Operations
+Applies To: Eligible purchases made through ShopEase
+
+1. Purpose
+
+This policy defines standard eligibility, timelines, conditions, and resolution procedures for customer returns and refunds.
+
+Product-specific warranty terms and the Damaged & Defective Items Policy may override the general conditions in this document when applicable.
+
+2. Standard Return Window
+
+Most eligible products may be requested for return within 15 calendar days of the recorded delivery date.
+
+The return request must be initiated through ShopEase customer support or the ShopEase return process before the end of the applicable return window.
+
+3. Condition for Standard Returns
+
+For a standard return unrelated to product damage or defect, the product should normally:
+
+- include original accessories;
+- include supplied manuals and components;
+- not show significant customer-caused damage;
+- not have been materially altered;
+- be returned in reasonable condition.
+
+Opened packaging alone does not automatically make an otherwise eligible item non-returnable.
+
+4. Electronics
+
+Electronics may be returned within the applicable return period when the product satisfies return eligibility requirements.
+
+When the reported reason involves technical malfunction, ShopEase may require troubleshooting before deciding whether the case should be treated as a return, replacement, or warranty claim.
+
+Physical damage present at delivery must be handled according to the ShopEase Damaged & Defective Items Policy, Policy SE-CS-002.
+
+5. Incorrect Items
+
+A customer who receives a product different from the product listed in their ShopEase order is eligible for corrective resolution.
+
+Depending on stock availability and customer preference, ShopEase may provide:
+
+- replacement with the ordered product; or
+- refund to the original payment method.
+
+ShopEase may request photographic evidence of the received item and its packaging.
+
+6. Non-Returnable Conditions
+
+A return may be rejected when:
+
+- the return period has expired;
+- there is clear evidence of customer-caused damage;
+- required product components are missing due to customer loss;
+- the item was materially modified;
+- the item belongs to a product category explicitly marked final sale.
+
+A case should be escalated when eligibility cannot be determined confidently from available information.
+
+7. Refund Method
+
+Approved refunds should normally be issued to the original payment method.
+
+Where the original payment method cannot receive a refund, customer support may escalate the case for an alternative approved refund method.
+
+Store credit must not be substituted for a monetary refund without customer agreement.
+
+8. Refund Processing Time
+
+After ShopEase confirms that a refund is approved, internal refund initiation should normally occur within 2 business days.
+
+Bank, card network, or payment-provider processing may require an additional 3 to 7 business days.
+
+The customer must not be promised an exact bank-credit date unless that date is confirmed by the payment provider.
+
+9. Return Shipping
+
+When ShopEase is responsible for the issue, including confirmed damaged, defective, or incorrect items, ShopEase should normally provide return-shipping instructions without charging the customer a return fee.
+
+For standard preference-based returns, return-shipping conditions may depend on the product category and current ShopEase terms.
+
+10. Partial Refunds
+
+Partial refunds may be considered when:
+
+- a minor accessory is missing;
+- cosmetic damage does not materially affect operation;
+- customer and ShopEase mutually agree to keep the product.
+
+Partial refund amounts require human approval before execution.
+
+11. Repeated or Unusual Claims
+
+Repeated returns, conflicting evidence, or unusual claim patterns may be referred for manual review.
+
+A manual review does not automatically mean that the customer's request will be denied.
+
+12. Policy Conflicts
+
+If this general policy conflicts with a more specific ShopEase policy, the more specific policy should be used for the relevant issue.
+
+Examples:
+
+- physical delivery damage → Damaged & Defective Items Policy;
+- shipping loss → Shipping & Delivery Policy;
+- manufacturer warranty issue → Warranty Policy.
+
+13. Customer Communication
+
+Every return or refund response should clearly state:
+
+- whether the request is eligible;
+- the policy basis for the decision;
+- any evidence or action still required;
+- the next processing step;
+- expected processing time when known.

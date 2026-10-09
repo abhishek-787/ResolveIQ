@@ -1,0 +1,67 @@
+services:
+
+  db:
+    image: pgvector/pgvector:pg16
+
+    container_name: resolveiq-db
+
+    environment:
+      POSTGRES_DB: resolveiq
+      POSTGRES_USER: resolveiq
+      POSTGRES_PASSWORD: resolveiq
+
+    volumes:
+      - resolveiq_postgres_data:/var/lib/postgresql/data
+
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          "pg_isready -U resolveiq -d resolveiq"
+        ]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+    restart: unless-stopped
+
+
+  backend:
+    build:
+      context: ./backend
+
+    container_name: resolveiq-backend
+
+    env_file:
+      - ./backend/.env
+
+    environment:
+      DATABASE_URL: postgresql+psycopg://resolveiq:resolveiq@db:5432/resolveiq
+
+    depends_on:
+      db:
+        condition: service_healthy
+
+    volumes:
+      - ./backend/storage:/app/storage
+
+    restart: unless-stopped
+
+
+  frontend:
+    build:
+      context: ./frontend
+
+    container_name: resolveiq-frontend
+
+    depends_on:
+      - backend
+
+    ports:
+      - "3000:80"
+
+    restart: unless-stopped
+
+
+volumes:
+  resolveiq_postgres_data:

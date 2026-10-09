@@ -1,0 +1,5 @@
+ShopEase Test Policy
+
+Damaged products must be reported to customer support with the relevant order details.
+
+This document is only for testing the ResolveIQ ingestion pipeline.

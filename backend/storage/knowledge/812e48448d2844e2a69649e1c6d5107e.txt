@@ -1,0 +1,142 @@
+SHOPEASE
+Damaged & Defective Items Policy
+
+Policy ID: SE-CS-002
+Version: 2.1
+Effective Date: 01 September 2026
+Policy Owner: Customer Experience Operations
+Applies To: Orders fulfilled directly by ShopEase
+
+1. Purpose
+
+This policy defines the process for resolving customer claims involving products that arrive physically damaged, defective on arrival, incomplete, or materially different from their expected working condition.
+
+The purpose of this policy is to provide customers with a fair and timely resolution while ensuring that damage and defect claims are supported by sufficient order and product evidence.
+
+2. Scope
+
+This policy applies to products purchased directly through ShopEase and fulfilled by ShopEase or an approved ShopEase fulfillment partner.
+
+Marketplace items fulfilled entirely by an independent seller may be subject to additional seller-specific terms.
+
+3. Damaged on Arrival
+
+A product is considered damaged on arrival when physical damage is present at the time the customer first receives or opens the shipment.
+
+Examples include:
+
+- cracked displays or glass;
+- broken housings or frames;
+- major dents;
+- damaged ports or connectors;
+- broken internal components;
+- liquid leakage from an appliance;
+- severe packaging damage that has also damaged the product.
+
+Customers should report visible physical damage within 7 calendar days of the recorded delivery date.
+
+4. Defective on Arrival
+
+A product may be considered defective on arrival when it does not operate according to its normal intended function despite reasonable setup and troubleshooting.
+
+Examples include:
+
+- product does not power on;
+- battery fails to charge;
+- display remains non-functional;
+- device cannot complete required initial setup;
+- essential hardware function is unavailable.
+
+A reported technical problem does not automatically confirm that a product is defective. ShopEase may first require standard troubleshooting steps from the relevant product manual.
+
+5. Evidence Requirements
+
+ShopEase may request evidence before approving a damaged or defective item resolution.
+
+Evidence may include:
+
+- ShopEase order number;
+- clear photograph of the damaged product;
+- photograph of the outer shipping package;
+- photograph of the shipping label;
+- photograph showing the product serial number;
+- screenshot or photograph of an error;
+- description of troubleshooting already attempted.
+
+For electronics priced above INR 15,000, photographic evidence of visible physical damage should normally be collected before a replacement or refund is approved.
+
+If the customer is unable to provide evidence because of accessibility or technical limitations, the case may be escalated for manual review.
+
+6. Resolution Options
+
+When a claim is validated, ShopEase may offer one of the following resolutions:
+
+- replacement with the same product;
+- replacement with an equivalent product when the original item is unavailable;
+- refund to the original payment method;
+- repair or manufacturer warranty support when appropriate.
+
+For damage reported within 7 calendar days of delivery, replacement is the preferred first resolution when the same product is available.
+
+If a replacement is unavailable, a refund may be offered.
+
+A customer may request a refund instead of replacement, but high-value refund requests may require additional approval.
+
+7. Wrong Product or Missing Components
+
+If the customer received a different product from the item shown in the ShopEase order record, the issue should be handled as an incorrect-item fulfillment case.
+
+The customer may be requested to provide a photograph showing:
+
+- the received product;
+- product packaging;
+- shipping label;
+- model or SKU information where visible.
+
+Confirmed incorrect-item cases are eligible for replacement or refund without a restocking fee.
+
+If only a component or accessory is missing, ShopEase may ship the missing component instead of replacing the complete product.
+
+8. Exclusions
+
+This policy does not normally cover damage caused after successful delivery by:
+
+- accidental drops;
+- customer misuse;
+- unauthorized modification;
+- improper electrical supply;
+- liquid exposure not attributable to shipping;
+- normal wear and tear.
+
+Claims showing evidence of customer-caused damage should be escalated when the cause cannot be confidently determined.
+
+9. High-Value Items
+
+For the purpose of support resolution, a high-value item is an item with an order-item value greater than INR 15,000.
+
+Refunds for high-value items require human support approval before execution.
+
+Replacement recommendations may be prepared automatically, but the final replacement action may also require approval according to current ShopEase support controls.
+
+10. Escalation
+
+A case should be escalated when:
+
+- evidence is insufficient or contradictory;
+- the customer disputes a previous damage decision;
+- fraud or repeated abnormal claim activity is suspected;
+- the item value exceeds normal automated support limits;
+- the policy does not clearly support a resolution;
+- the requested action falls outside standard replacement or refund rules.
+
+11. Resolution Communication
+
+The customer should be informed of:
+
+- the decision;
+- reason for the decision;
+- next required action;
+- expected replacement or refund timeline;
+- any return-shipping requirement.
+
+Support responses must not promise a refund, replacement, or delivery date unless the relevant ShopEase system confirms that action.
